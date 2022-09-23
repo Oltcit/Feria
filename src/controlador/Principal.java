@@ -5,6 +5,14 @@ import vista.VentanaCargar;
 import vista.VentanaJuego;
 import vista.VentanaPrincipal;
 
+/**
+ * Programa para la Feria del libro 15 y 16 de
+ * Septiembre del 2022
+ * 
+ * @author 2° ASI
+ *
+ */
+
 public class Principal {
 	Coordinador miCoordinador;
 	VentanaBuscar miVentanaBuscar;
